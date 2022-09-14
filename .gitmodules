@@ -1,0 +1,3 @@
+[submodule "firrtl-sig"]
+	path = firrtl-sig
+	url = https://github.com/ucsc-vama/firrtl-sig.git
